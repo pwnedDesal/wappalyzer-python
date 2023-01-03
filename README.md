@@ -1,3 +1,5 @@
+> https://stackoverflow.com/a/37251956 dealing with multi version
+
 # wappalyzer-python -- UNMAINTAINED
 ![pypi badge](https://badge.fury.io/py/scrapy-streamitem.png)
 
